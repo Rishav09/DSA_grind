@@ -1,0 +1,11 @@
+-----------------------------------------
+Rishav's .plan for March 14th, 2025
+* – Task completed on that day
++ – Task fixed later
+No prefix – Task still open
+
+-----------------------------------------
+
+* Finish the two pointer problems
+
+-----------------------------------------
