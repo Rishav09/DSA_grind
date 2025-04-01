@@ -7,5 +7,5 @@ No prefix – Task still open
 -----------------------------------------
 
 * Finish the two pointer problems
-
+* Finish stack and queue problems
 -----------------------------------------
